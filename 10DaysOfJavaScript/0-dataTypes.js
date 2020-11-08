@@ -1,20 +1,3 @@
-// ## Day 0: Hello World
-// A line of code that prints "Hello, World!" on a new line is provided in the editor. 
-// Write a second line of code that prints the contents of 'parameterVariable' on a new line.
-
-function greeting(parameterVariable) {
-    // This line prints 'Hello, World!' to the console:
-    console.log('Hello, World!');
-
-    // Write a line of code that prints parameterVariable to stdout using console.log:
-    console.log(parameterVariable)
-}
-
-greeting("Welcome to 10 Days of JavaScript!")
-
-// ==========================================================================================================
-// ==========================================================================================================
-
 // ## Day 0: Data Types
 // The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
 // Print three lines:
