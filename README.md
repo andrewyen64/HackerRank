@@ -1,3 +1,3 @@
-# HackerRank Practice
+# HackerRank
 
-Refreshing some coding and JavaScript skills with some practice problems, provided by HackerRank.
+Reviewing previous JavaScript concepts while learning new algorithms with some practice problems, provided by HackerRank.
