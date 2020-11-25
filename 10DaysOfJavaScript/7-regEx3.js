@@ -11,8 +11,6 @@ function regexVar() {
      * It must match ALL occurrences of numbers in a string.
      */
     const re = new RegExp('\\d+', 'g');
-
-    let re = /\d+/g;
     
     /*
      * Do not remove the return statement
