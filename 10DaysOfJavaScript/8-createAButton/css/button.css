@@ -1,0 +1,11 @@
+/* The button has the following style properties:
+    A width of 96px.
+    A height of 48px.
+    The font-size attribute is 24px. 
+*/
+
+#btn {
+    width: 96px;
+    height: 48px;
+    font-size: 24px;
+}
