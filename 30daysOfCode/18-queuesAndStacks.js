@@ -77,3 +77,19 @@ function Solution() {
     this.popCharacter = () => stack.pop();
     this.dequeueCharacter = () => queue.shift();
 }
+
+// Solution that logically makes more sense with the definition of Stacks and Queues
+function Solution() {
+    //Write your code here
+    const stack = [];
+    const queue = [];
+    
+    // unshift adds an element at the beginning of an array
+    this.pushCharacter = a => stack.unshift(a);
+    // push adds an element at the end of an array
+    this.enqueueCharacter = b => queue.push(b);
+    // pop removes last element in an array
+    this.popCharacter = () => stack.pop();
+    // shift removes 1st element in an array
+    this.dequeueCharacter = () => queue.shift();
+}
